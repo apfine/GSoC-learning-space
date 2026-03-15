@@ -25,7 +25,7 @@ Here is a small example -
 Last semester while working on a swarm based minefield detection project , I had to write thousands of lines of code to simulate the swarm in a minefield .
 But with inbuilt library of the `mesa` the lines were reduced to half and first person complexity was also reduced significantly .
 
-Here is the project - <a>https://github.com/apfine/swarm<\a>
+Here is the project - <a>https://github.com/apfine/swarm
 
 This clearly shows the empowerment `Mesa` is doing to tinkerers , and I also wanna contribute my part to it.
 
